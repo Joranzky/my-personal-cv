@@ -1,0 +1,39 @@
+{
+  "profile": {
+    "name": "Joranzky Kolibu",
+    "role": "Frontend Engineer & UI Designer",
+    "bio": "Saya adalah pengembang web yang berfokus pada menciptakan pengalaman digital yang elegan, responsif, dan user-friendly.",
+    "avatar": "./assets/foto.jpg",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com/Joranzky"
+  },
+  "skills": [
+    { "id": 1, "name": "React", "level": "Advanced" },
+    { "id": 2, "name": "Tailwind CSS", "level": "Advanced" },
+    { "id": 3, "name": "JavaScript", "level": "Intermediate" },
+    { "id": 4, "name": "Figma", "level": "Intermediate" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Dashboard",
+      "description": "Dashboard admin responsif dengan fitur analitik data real-time.",
+      "tech": "React, ChartJS",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Travel Landing Page",
+      "description": "Landing page modern untuk agen travel dengan animasi halus.",
+      "tech": "Vite, Tailwind",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Personal Blog",
+      "description": "Blog pribadi dengan integrasi CMS headless.",
+      "tech": "Next.js, GraphQL",
+      "link": "#"
+    }
+  ]
+}
